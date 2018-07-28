@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://firedrakelabs.com/categories/</loc>
+    <loc>https://firedrakelabs.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://firedrakelabs.com/</loc>
+    <loc>https://firedrakelabs.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://firedrakelabs.com/tags/</loc>
+    <loc>https://firedrakelabs.com/tags/</loc>
     <priority>0</priority>
   </url>
   
